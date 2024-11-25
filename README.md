@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @cards10e
 - 👀 I’m interested in development, network engineering, presales, and solutions architecture
-- 🌱 I’m currently learning python, docker, kubernetes
+- 🌱 I’m currently developing in python, typescript, react, and node.js - just to name a few
 - 💞️ I’m looking to find my next role as well as collaborate on development projects
 - 📫 How to reach me (TBD)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: "The human head weighs 15lbs" 
+- ⚡ Fun fact: "Honey never spoils!" 
 
 <!---
 cards10e/cards10e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
