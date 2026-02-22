@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cards10e
 - 👀 I’m interested in development, network engineering, presales, and solutions architecture
 - 🌱 I’m currently developing in python, typescript, react, and node.js - just to name a few
-- 💞️ I’m looking to find my next role as well as collaborate on development projects
+- 💞️ I’m always looking to help new and existing clients solve their business problems with the right technologies as well as collaborate with other dev's on development projects
 - 📫 How to reach me (TBD)
 - ⚡ Fun fact: "Honey never spoils!" 
 
