@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cards10e
-- 👀 I’m full stack developer interested in development, network engineering, and solutions sales
+- 👀 I’m full stack developer interested in sofware architecture, network engineering, and solutions sales
 - 🌱 I’m currently developing in python, typescript, react, and node.js - just to name a few
 - 💞️ I’m always looking to help new and existing clients solve their business problems with the right technologies as well as collaborate with other dev's on development projects
 - 📫 How to reach me (TBD)
